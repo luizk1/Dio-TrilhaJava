@@ -1,0 +1,8 @@
+public class Operadores {
+    public static void main(String[] args) throws Exception {
+        int numero = 5;
+        // x repeticao
+        numero = numero + 2; // incrementa o valor da variável numero em 2
+        System.out.println(numero); // imprime o valor da variável numero
+    }
+}
